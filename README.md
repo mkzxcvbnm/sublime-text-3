@@ -1,4 +1,4 @@
-#Sublime Text安装配置指南
+# Sublime Text安装配置指南
 1. 下载安装Sublime Text  [地址](http://www.sublimetext.com/){:target="_blank"}
 
 2. ctrl+shift+p 输入install 安装Package Control
@@ -21,7 +21,7 @@ FCCC7561 8A4A1741 68FA4223 ADCEDE07
 ```
 
 4. 包管理器地址
-[Package Control](https://packagecontrol.io/){:target="_blank"}
+[Package Control](https://packagecontrol.io/ target="_blank")
 
 5. 按需选择插件包
 ```
