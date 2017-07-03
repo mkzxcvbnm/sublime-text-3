@@ -1,0 +1,17 @@
+[
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+            "extensions":".*"
+        }
+    },
+    { "keys": ["ctrl+shift+c"], "command": "color_pick" },
+    { "keys": ["ctrl+alt+="], "command": "alignment" },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser" } },
+    { "keys": ["ctrl+shift+alt+r"], "command": "reindent" , "args": { "single_line": false } },
+    { "keys": ["ctrl+alt+m"], "command": "minify" },
+    { "keys": ["ctrl+alt+b"], "command": "beautify" },
+    { "keys": ["ctrl+shift+alt+j"],"command": "pretty_json" },
+    { "keys": ["ctrl+shift+alt+m"],"command": "un_pretty_json" }
+]
