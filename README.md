@@ -1,29 +1,12 @@
 # Sublime Text安装配置指南
-1. 下载安装Sublime Text  [地址](http://www.sublimetext.com/){:target="_blank"}
+1. 下载安装Sublime Text  [地址](http://www.sublimetext.com/)
 
 2. ctrl+shift+p 输入install 安装Package Control
 
-3. 注册码
-```
-—– BEGIN LICENSE —–
-Michael Barnes
-Single User License
-EA7E-821385
-8A353C41 872A0D5C DF9B2950 AFF6F667
-C458EA6D 8EA3C286 98D1D650 131A97AB
-AA919AEC EF20E143 B361B1E7 4C8B7F04
-B085E65E 2F5F5360 8489D422 FB8FC1AA
-93F6323C FD7F7544 3F39C318 D95E6480
-FCCC7561 8A4A1741 68FA4223 ADCEDE07
-200C25BE DBBC4855 C4CFB774 C5EC138C
-0FEC1CEF D9DCECEC D3A5DAD1 01316C36
-—— END LICENSE ——
-```
+3. 包管理器地址
+[Package Control](https://packagecontrol.io/)
 
-4. 包管理器地址
-<a href="https://packagecontrol.io/" target="_blank">Package Control</a>
-
-5. 按需选择插件包
+4. 按需选择插件包
 ```
 ChineseLocalizations        汉化插件
 Emmet                       快捷操作
@@ -54,6 +37,6 @@ SublimeOnSaveBuild          scss保存即编译
 ReIndent                    调整文件缩进
 Minify                      压缩/美化 CSS,JavaScript,JSON,HTML和SVG
 ```
->__!注意__ Minify需要cli环境  [Minify文档](https://packagecontrol.io/packages/Minify){:target="_blank"}
-6. 如使用上述所有插件并且是全新安装,可以将User文件夹内的配置文件导入到Sublime Text安装后配置目录的User文件夹内
+>__!注意__ Minify需要cli环境  [Minify文档](https://packagecontrol.io/packages/Minify)
+5. 如使用上述所有插件并且是全新安装,可以将User文件夹内的配置文件导入到Sublime Text安装后配置目录的User文件夹内
 >默认用户配置目录:C:\Users\你的用户名\AppData\Roaming\Sublime Text 3\Packages\User
