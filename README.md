@@ -21,7 +21,7 @@ FCCC7561 8A4A1741 68FA4223 ADCEDE07
 ```
 
 4. 包管理器地址
-[Package Control](https://packagecontrol.io/ target="_blank")
+<a href="https://packagecontrol.io/" target="_blank">Package Control</a>
 
 5. 按需选择插件包
 ```
