@@ -36,6 +36,7 @@ SASS Build                  scss文件编译为css
 SublimeOnSaveBuild          scss保存即编译
 ReIndent                    调整文件缩进
 Minify                      压缩/美化 CSS,JavaScript,JSON,HTML和SVG
+AutoFileName                自动文件名插件
 ```
 >__!注意__ Minify需要cli环境  [Minify文档](https://packagecontrol.io/packages/Minify)
 5. 如使用上述所有插件并且是全新安装,可以将User文件夹内的配置文件导入到Sublime Text安装后配置目录的User文件夹内
