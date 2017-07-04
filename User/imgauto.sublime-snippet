@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<img src="${1}" img-Auto="cover" no-Box="true" width="${2}" height="${3}" alt="${4}">${5}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>imgauto</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html</scope> -->
+     <description>图片自适应的img标签</description> 
+</snippet>

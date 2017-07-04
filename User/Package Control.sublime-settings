@@ -1,39 +1,39 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Alignment",
-		"All Autocomplete",
-		"AutoFileName",
-		"BracketHighlighter",
-		"ChineseLocalizations",
-		"Color Highlighter",
-		"ColorPicker",
-		"ConvertToUTF8",
-		"CSS3",
-		"DocBlockr",
-		"Emmet",
-		"FileDiffs",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"jQuery",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"Minify",
-		"OmniMarkupPreviewer",
-		"Package Control",
-		"Pretty JSON",
-		"ReIndent",
-		"SASS Build",
-		"SCSS",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeOnSaveBuild",
-		"SyncedSideBar",
-		"TrailingSpaces",
-		"Vue Syntax Highlight"
-	]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Alignment",
+        "All Autocomplete",
+        "AutoFileName",
+        "BracketHighlighter",
+        "ChineseLocalizations",
+        "Color Highlighter",
+        "ColorPicker",
+        "ConvertToUTF8",
+        "CSS3",
+        "DocBlockr",
+        "Emmet",
+        "FileDiffs",
+        "HTML-CSS-JS Prettify",
+        "HTML5",
+        "jQuery",
+        "Markdown Extended",
+        "Markdown Preview",
+        "Minify",
+        "OmniMarkupPreviewer",
+        "Package Control",
+        "Pretty JSON",
+        "ReIndent",
+        "SASS Build",
+        "SCSS",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeOnSaveBuild",
+        "SyncedSideBar",
+        "TrailingSpaces",
+        "Vue Syntax Highlight"
+    ]
 }

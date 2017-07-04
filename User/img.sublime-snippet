@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<img src="${1}" alt="${2}">${3}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>img</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html</scope> -->
+     <description>带alt的img标签</description> 
+</snippet>
