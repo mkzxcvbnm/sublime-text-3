@@ -23,7 +23,7 @@ HTML-CSS-JS Prettify        html,css,js格式化插件
 Color Highlighter           颜色代码高亮显示插件
 All Autocomplete            当前文件提示词 拓展到所有打开文件
 Markdown Preview            markdown快速预览插件
-Markdown Extended           markdown语法高亮
+MarkdownEditing             markdown语法高亮
 OmniMarkupPreviewer         markdown实时预览
 Pretty JSON                 json格式化插件
 TrailingSpaces              突出显示多余空格
